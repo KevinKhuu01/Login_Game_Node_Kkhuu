@@ -2,6 +2,8 @@ Hello!
 
 Welcome to the most frustrating login UI ever!
 
+Please download the file, open in VS Code, and follow the steps below:
+
 Please install node js by completing the following test in order to run the program:
 - Open terminal
 - npm install node
