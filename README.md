@@ -11,3 +11,6 @@ Please install node js by completing the following test in order to run the prog
 - Open your web browser and go to: http://localhost:3000/
 
 Follow the rules and have fun! Try not to cheat!
+
+See the static version here:
+https://worst-login-ui-ever.netlify.app/
